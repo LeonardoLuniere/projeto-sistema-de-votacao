@@ -1,0 +1,5 @@
+#Sun Nov 05 16:03:25 BRT 2023
+configuration*?=CC7B43CF688D6CFC5C128F6E487867BABEA614B7
+module-resource*?\:checkstyle-xpath-suppressions.xml=EABC0C662236A7EC9A3C2995B8B5D7A2871F85E5
+module-resource*?\:checkstyle-suppressions.xml=75EC34FB8F94409D72891459E1DC1B4B2093513A
+/home/Leonardo/Documentos/Programador/java-029-java-projeto-sistema-de-votacao/src/main/java/com/betrybe/sistemadevotacao/GerenciamentoVotacaoInterface.java=1699210985372

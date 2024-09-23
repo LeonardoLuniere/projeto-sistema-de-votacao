@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/home/Leonardo/Documentos/Programador/java-029-java-projeto-sistema-de-votacao/src/main/java/com/betrybe/sistemadevotacao/PessoaCandidata.java">
+<error line="3" column="1" severity="warning" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="/home/Leonardo/Documentos/Programador/java-029-java-projeto-sistema-de-votacao/src/main/java/com/betrybe/sistemadevotacao/PessoaEleitora.java">
+<error line="3" column="1" severity="warning" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="/home/Leonardo/Documentos/Programador/java-029-java-projeto-sistema-de-votacao/src/main/java/com/betrybe/sistemadevotacao/Pessoa.java">
+<error line="3" column="1" severity="warning" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="/home/Leonardo/Documentos/Programador/java-029-java-projeto-sistema-de-votacao/src/main/java/com/betrybe/sistemadevotacao/GerenciamentoVotacao.java">
+<error line="3" column="1" severity="warning" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="/home/Leonardo/Documentos/Programador/java-029-java-projeto-sistema-de-votacao/src/main/java/com/betrybe/sistemadevotacao/Principal.java">
+<error line="3" column="1" severity="warning" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="/home/Leonardo/Documentos/Programador/java-029-java-projeto-sistema-de-votacao/src/main/java/com/betrybe/sistemadevotacao/GerenciamentoVotacaoInterface.java">
+</file>
+</checkstyle>
